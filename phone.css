@@ -1,0 +1,55 @@
+/* Navigation */
+#navbar{
+    flex-direction: column;
+}
+#navbar ul li a{
+    font-size: 1rem;
+    padding: 0px 10px;
+}
+/* home section */
+#home{
+height: 450px;
+padding: 3px 20px;
+
+
+}
+#home ::before{
+    height: 280px;
+  
+}
+#home p{
+    font-size: 13px;
+}
+/* services section */
+#services{
+flex-direction: column;
+}
+#services .box{
+    padding: 10px;
+    margin: 2px 0px;
+    margin-bottom: 20px;
+}
+
+/* clint */
+#clints{
+    flex-wrap: wrap;
+
+}
+#clints img{
+    width: 56px;
+    height: 56px;
+}
+/* contact */
+#contact-box form{
+    width: 90%;
+}
+/* footer */
+
+
+.h-primary{
+    font-size: 26px;
+}
+.btn{
+    font-size: 13px;
+    padding: 5px 8px;
+}
